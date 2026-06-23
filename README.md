@@ -1,5 +1,9 @@
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="100%">
+<img src="./banner" alt="Banner" width="100%">
+
 <h1 align="center">Hi 👋, I'm Archit Gupta</h1>
+
+<h3 align="center">
+Computer Science (Data Science) Student |
 
 <h3 align="center">
 🚀 Full Stack Developer | 📊 Data Science Student | 🤖 AI Enthusiast
@@ -19,14 +23,11 @@
 
 📊 Interested in Data Science, Machine Learning & AI
 
-🏆 Smart India Hackathon National Participant
 
 🌱 Working on:
 - VentureIQ
 - EcoToy Scanner
 - DSA & System Design
-
-📄 Research & Patent Work in Sustainable AI Solutions
 
 ⚡ Goal: Become a Software Engineer building impactful products
 
@@ -102,32 +103,17 @@ Web-based business solutions platform
 
 ---
 
-## 🏆 Achievements
-
-🏆 Smart India Hackathon National Participant
-
-📄 Research Paper Author
-
-📑 Patent Filed - EcoToy Scanner
-
-🎯 3rd Year B.Tech CSE (Data Science)
-
----
 
 ## 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://linkedin.com">
+<a href="www.linkedin.com/in/archit-gupta-332851358">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:architgupta188@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://leetcode.com">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
 </a>
 
 </p>
