@@ -89,27 +89,19 @@ Web-based business solutions platform
 ## 📈 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=architgupta188&show_icons=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=architgupta188&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=architgupta188&theme=tokyonight"/>
-</p>
-
----
 
 
 ## 🌐 Connect With Me
 
 <p align="left">
 
-<a href="www.linkedin.com/in/archit-gupta-332851358">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<a href="https://www.linkedin.com/in/archit-gupta-332851358/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="mailto:architgupta188@gmail.com">
@@ -120,11 +112,6 @@ Web-based business solutions platform
 
 ---
 
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=architgupta188&color=blue)
-
----
 
 <p align="center">
 ⭐ If you like my work, consider giving a star to my repositories.
