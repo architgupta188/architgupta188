@@ -88,10 +88,7 @@ Web-based business solutions platform
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=architgupta188&layout=compact&theme=tokyonight"/>
-</p>
-
+<img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=architgupta188&layout=compact&theme=tokyonight&hide_border=true"/>
 ---
 
 
